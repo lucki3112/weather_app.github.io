@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+}
+.box1,.box2,.box3{
+    border: 2px solid black;
+    margin-top: 43px;
+    margin-left: 83px;
+    border-radius: 23px;
+    width: 50%;
+    background-color: bisque;
+}
+.heading{
+    text-align: center;
+    border-bottom: 2px solid black;
+    padding: 23px;
+    border-radius: 23px;
+    background-color: purple;
+    color: white;
+}
+.content{
+    padding: 43px;
+    text-align: center;
+}
+.weather,.search_weather{
+    margin-top: 45px;
+}
